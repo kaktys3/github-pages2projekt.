@@ -1,0 +1,158 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-envelope {
+  width: 1.3330078125em;
+  width: 16px;
+  height: 12px;
+  color: #757575;
+}
+
+.icon-astronaut {
+  width: 70px;
+  height: 70px;
+  padding: 25px 102px;
+  background: #F5F4FA;
+}
+
+.icon-clock {
+  width: 66.96px;
+  height: 70px;
+  padding: 25px 102px;
+  background: #F5F4FA;
+}
+
+.icon-group-1 {
+  width: 41px;
+  height: 46.7px;
+  padding: 23px 65px;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.icon-group-2 {
+  width: 40px;
+  height: 52px;
+  padding: 20px 65px;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.icon-group-3 {
+  width: 43.46px;
+  height: 41.18px;
+  padding: 25px 62px;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.icon-group-4 {
+  width: 84.44px;
+  height: 40.62px;
+  padding: 25px 43px;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.icon-group-5 {
+  width: 62.54px;
+  height: 45.43px;
+  padding: 23px 64px;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.icon-group-6 {
+  width: 93.79px;
+  height: 43.93px;
+  padding: 24px 38px;
+  border: 1px solid #AFB1B8
+}
+
+.icon-Group-7 {
+  width: 0.9423828125em;
+  width: 65.32px;
+  height: 70px;
+  padding: 25px 102px;
+  background: #F5F4FA;
+}
+
+.icon-smartphone {
+  width: 0.625em;
+  width: 10px;
+  height: 16px;
+  color: #757575;
+}
+
+.icon-Vector {
+  width: 70px;
+  height: 70px;
+  padding: 25px 102px;
+  background: #F5F4FA;
+}
+
+.icon-facebook {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+.icon-instagram {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+.icon-twitter {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+.icon-linkedin {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+.icon-linkedin2 {
+  width: 20px;
+  height: 20px;
+  color: #AFB1B8;
+}
+
+.icon-facebook2:focus {
+  color: #FFF;
+}
+
+.icon-facebook2 {
+  width: 20px;
+  height: 20px;
+  color: #AFB1B8;
+}
+
+.icon-instagram2 {
+  width: 20px;
+  height: 20px;
+  color: #AFB1B8;
+}
+
+.icon-twitter2 {
+  width: 20px;
+  height: 20px;
+  color: #AFB1B8;
+}
